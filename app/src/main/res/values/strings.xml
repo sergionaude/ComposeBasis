@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ComposeBasis</string>
+
+    <string name="first_text">I am first text</string>
+    <string name="second_text">I am second text</string>
+    <string name="third_text">I am third text</string>
+
 </resources>

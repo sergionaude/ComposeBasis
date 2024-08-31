@@ -29,7 +29,7 @@ fun HelloColumn(name: String) {
             text = "Hola mundo $name",
             modifier = Modifier
                 .padding(16.dp)
-                .background(Color.Blue)
+                .background(Color.Blue),
         )
 
         Text(text = "Hello world")
